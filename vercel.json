@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/cago outfit.html"
+      "destination": "/cargo outfit.html"
     }
   ]
 }
